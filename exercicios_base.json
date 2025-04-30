@@ -1,0 +1,1402 @@
+[
+  {
+    "id": 1,
+    "nome": "Barra fixa (pronada)",
+    "descricao": "Exercício para costas com pegada pronada na barra fixa.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 2,
+    "nome": "Barra fixa (supinada)",
+    "descricao": "Exercício para costas com pegada supinada na barra fixa.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 3,
+    "nome": "Barra fixa (neutra)",
+    "descricao": "Exercício para costas com pegada neutra na barra fixa.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 4,
+    "nome": "Remada baixa (Barra H)",
+    "descricao": "Exercício de puxada para costas com barra H na polia baixa.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 5,
+    "nome": "Remada Baixa (Neutra)",
+    "descricao": "Exercício para costas na polia baixa com pegada neutra.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 6,
+    "nome": "Remada Baixa (Pronada)",
+    "descricao": "Exercício para costas na polia baixa com pegada pronada.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 7,
+    "nome": "Remada Baixa (Supinada)",
+    "descricao": "Exercício para costas na polia baixa com pegada supinada.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 8,
+    "nome": "Remada Baixa (Unilateral)",
+    "descricao": "Exercício para costas na polia baixa realizado com um braço por vez.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 9,
+    "nome": "Remada baixa (retração + extensão)",
+    "descricao": "Exercício completo para costas com movimento de retração e extensão na polia baixa.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 10,
+    "nome": "Puxada Alta (Barra Anatômica)",
+    "descricao": "Exercício para costas com barra anatômica na polia alta.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 11,
+    "nome": "Puxada Alta (Barra Anatômica fechada)",
+    "descricao": "Exercício para costas com barra anatômica fechada na polia alta.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 12,
+    "nome": "Puxada Alta Unilateral",
+    "descricao": "Exercício para costas na polia alta realizado com um braço por vez.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 13,
+    "nome": "Puxada Alta Barra H",
+    "descricao": "Exercício para costas utilizando barra H na polia alta.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 14,
+    "nome": "Puxada Alta (Triângulo)",
+    "descricao": "Exercício para costas com pegador em formato de triângulo na polia alta.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 15,
+    "nome": "Puxada Alta (Supinada)",
+    "descricao": "Exercício para costas e bíceps com pegada supinada na polia alta.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 16,
+    "nome": "Puxada Alta (Pronada)",
+    "descricao": "Exercício para costas com pegada pronada na polia alta.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 17,
+    "nome": "Puxada Alta (Depressão + Adução)",
+    "descricao": "Exercício para costas com movimento combinado de depressão e adução na polia alta.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 18,
+    "nome": "Serrote unilateral",
+    "descricao": "Exercício para costas realizado com um braço apoiado em banco e haltere.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 19,
+    "nome": "Remada Cavalinho Máquina (Neutra)",
+    "descricao": "Exercício para costas na máquina cavalinho com pegada neutra.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 20,
+    "nome": "Remada Cavalinho Máquina (Pronada)",
+    "descricao": "Exercício para costas na máquina cavalinho com pegada pronada.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 21,
+    "nome": "Remada Cavalinho (Livre)",
+    "descricao": "Exercício para costas na máquina cavalinho com movimento livre.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 22,
+    "nome": "Puxada Alta (Articulada)",
+    "descricao": "Exercício para costas em máquina articulada de puxada alta.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 23,
+    "nome": "Remada com Halteres (Peito no Banco)",
+    "descricao": "Exercício para costas com halteres, com o peito apoiado no banco.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 24,
+    "nome": "Remada com Halteres (Retração + Extensão de ombro)",
+    "descricao": "Exercício para costas com halteres combinando movimentos de retração e extensão.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 25,
+    "nome": "PULL down corda",
+    "descricao": "Exercício para costas com corda na polia alta.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 26,
+    "nome": "Pulldown com barra",
+    "descricao": "Exercício para costas com barra reta na polia alta.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 27,
+    "nome": "Pull down no banco inclinado",
+    "descricao": "Exercício para costas com polia alta em banco inclinado.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 28,
+    "nome": "Pull around",
+    "descricao": "Exercício para costas com movimento circular na polia.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 29,
+    "nome": "PULLOVER com halter",
+    "descricao": "Exercício para dorsal e peitoral com halter no banco reto.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 30,
+    "nome": "Remada curvada com Halteres",
+    "descricao": "Exercício para costas com halteres em posição curvada.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 31,
+    "nome": "Remada curvada Barra Hexagonal",
+    "descricao": "Exercício para costas com barra hexagonal em posição curvada.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 32,
+    "nome": "Remada curvada (Pronada)",
+    "descricao": "Exercício para costas com pegada pronada em posição curvada.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 33,
+    "nome": "Remada curvada (supinada)",
+    "descricao": "Exercício para costas com pegada supinada em posição curvada.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 34,
+    "nome": "Remada curvada na Polia Baixa (Neutra)",
+    "descricao": "Exercício para costas com pegada neutra na polia baixa em posição curvada.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 35,
+    "nome": "Remada curvada no Smith (Pronada)",
+    "descricao": "Exercício para costas com pegada pronada no aparelho Smith.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 36,
+    "nome": "Crucifixo Inverso Máquina",
+    "descricao": "Exercício para costas e ombros posteriores na máquina de crucifixo inverso.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 37,
+    "nome": "Crucifixo Inverso com Halteres Neutra (peito no banco)",
+    "descricao": "Exercício para costas e ombros posteriores com pegada neutra e peito apoiado no banco.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 38,
+    "nome": "Crucifixo Inverso com Halteres Pronada (peito no banco)",
+    "descricao": "Exercício para costas e ombros posteriores com pegada pronada e peito apoiado no banco.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 39,
+    "nome": "Crucifixo inverso nas polias em pé",
+    "descricao": "Exercício para costas e ombros posteriores com polias em posição em pé.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 40,
+    "nome": "Crucifixo inverso nas polias inclinado",
+    "descricao": "Exercício para costas e ombros posteriores com polias em banco inclinado.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 41,
+    "nome": "Remada articulada simultânea (pegada neutra)",
+    "descricao": "Exercício para costas em máquina articulada com pegada neutra.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 42,
+    "nome": "Remada articulada unilateral (pegada neutra)",
+    "descricao": "Exercício para costas em máquina articulada com pegada neutra, executado um lado por vez.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 43,
+    "nome": "Remada articulada simultânea (pegada pronada)",
+    "descricao": "Exercício para costas em máquina articulada com pegada pronada.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 44,
+    "nome": "Remada Alta na Polia corda",
+    "descricao": "Exercício para trapézio utilizando corda na polia baixa.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 45,
+    "nome": "Remada alta na polia (pegadores)",
+    "descricao": "Exercício para trapézio com pegadores na polia baixa.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 46,
+    "nome": "Puxada Livre no Smith",
+    "descricao": "Exercício para costas com movimento de puxada no aparelho Smith.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 47,
+    "nome": "Encolhimento com halteres",
+    "descricao": "Exercício para trapézio com halteres.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 48,
+    "nome": "Encolhimento no Smith",
+    "descricao": "Exercício para trapézio no aparelho Smith.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 49,
+    "nome": "Encolhimento na Barra Hexagonal",
+    "descricao": "Exercício para trapézio com barra hexagonal.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 50,
+    "nome": "Face Pull",
+    "descricao": "Exercício para ombros posteriores e rotadores externos com polia.",
+    "grupoMuscular": "Costas",
+    "linkVideo": ""
+  },
+  {
+    "id": 51,
+    "nome": "Agachamento Livre",
+    "descricao": "Exercício básico para membros inferiores com barra.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 52,
+    "nome": "Agachamento Livre Frontal",
+    "descricao": "Exercício para membros inferiores com barra apoiada na frente dos ombros.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 53,
+    "nome": "Agachamento no Smith",
+    "descricao": "Exercício para membros inferiores utilizando o aparelho Smith.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 54,
+    "nome": "Agachamento Frontal no Smith",
+    "descricao": "Exercício para membros inferiores com barra na frente utilizando o aparelho Smith.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 55,
+    "nome": "Agachamento no Smith (Base Sumô)",
+    "descricao": "Exercício para membros inferiores com posicionamento de pernas mais aberto no Smith.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 56,
+    "nome": "Agachamento com Anilhas (nas mãos ao lado do corpo)",
+    "descricao": "Exercício para membros inferiores segurando anilhas ao lado do corpo.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 57,
+    "nome": "Agachamento Taça",
+    "descricao": "Exercício para membros inferiores segurando um halter ou kettlebell na frente do corpo.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 58,
+    "nome": "Agachamento Taça na Polia (Triângulo)",
+    "descricao": "Exercício para membros inferiores com pegador triangular na polia baixa.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 59,
+    "nome": "Agachamento com Mini Band",
+    "descricao": "Exercício para membros inferiores com resistência de mini band.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 60,
+    "nome": "Agachamento Educativo (Banco)",
+    "descricao": "Exercício para aprendizado de agachamento utilizando banco como referência.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 61,
+    "nome": "Agachamento no Suporte",
+    "descricao": "Exercício para membros inferiores com barra em suporte guiado.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 62,
+    "nome": "Agachamento com Apoio",
+    "descricao": "Exercício para membros inferiores com apoio para equilíbrio.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 63,
+    "nome": "Agachamento Squad Normal",
+    "descricao": "Exercício para membros inferiores em máquina de agachamento.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 64,
+    "nome": "Agachamento Squad (Invertido)",
+    "descricao": "Exercício para membros inferiores em máquina de agachamento com posição invertida.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 65,
+    "nome": "Agachamento no Hack",
+    "descricao": "Exercício para membros inferiores na máquina hack.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 66,
+    "nome": "Hack Sentado",
+    "descricao": "Exercício para membros inferiores na máquina hack com posição sentada.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 67,
+    "nome": "Pêndulo",
+    "descricao": "Exercício para glúteos e posteriores de coxa na máquina pêndulo.",
+    "grupoMuscular": "Gluteo",
+    "linkVideo": ""
+  },
+  {
+    "id": 68,
+    "nome": "Agachamento com Saltos",
+    "descricao": "Exercício pliométrico para membros inferiores com saltos.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 69,
+    "nome": "Agachamento Isométrico na Parede",
+    "descricao": "Exercício isométrico para membros inferiores com apoio na parede.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 70,
+    "nome": "Agachamento Isométrico",
+    "descricao": "Exercício isométrico para membros inferiores mantendo a posição de agachamento.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 71,
+    "nome": "Agachamento Squad Unilateral",
+    "descricao": "Exercício para membros inferiores em máquina de agachamento com uma perna por vez.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 72,
+    "nome": "Sumô na Polia",
+    "descricao": "Exercício para parte interna das coxas com pegador na polia baixa.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 73,
+    "nome": "Sumô com Halter",
+    "descricao": "Exercício para parte interna das coxas com halter entre as pernas.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 74,
+    "nome": "Afundo Tradicional",
+    "descricao": "Exercício para membros inferiores com movimento alternado das pernas para frente.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 75,
+    "nome": "Afundo com Halteres",
+    "descricao": "Exercício para membros inferiores com halteres segurando ao lado do corpo.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 76,
+    "nome": "Afundo com Barra",
+    "descricao": "Exercício para membros inferiores com barra nas costas.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 77,
+    "nome": "Búlgaro Tradicional",
+    "descricao": "Exercício para membros inferiores com uma perna apoiada atrás em banco.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 78,
+    "nome": "Búlgaro Contralateral",
+    "descricao": "Variação do agachamento búlgaro com movimento contralateral.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 79,
+    "nome": "Búlgaro Ipsilateral",
+    "descricao": "Variação do agachamento búlgaro com movimento ipsilateral.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 80,
+    "nome": "Afundo (pé da frente no Step)",
+    "descricao": "Exercício para membros inferiores com pé da frente elevado em step.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 81,
+    "nome": "Afundo (pé de trás no Step)",
+    "descricao": "Exercício para membros inferiores com pé de trás elevado em step.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 82,
+    "nome": "Avanço",
+    "descricao": "Exercício para membros inferiores com movimento para frente.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 83,
+    "nome": "Recuo",
+    "descricao": "Exercício para membros inferiores com movimento para trás.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 84,
+    "nome": "Passada Alternada",
+    "descricao": "Exercício para membros inferiores com movimento alternado das pernas.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 85,
+    "nome": "Afundo na Barra Guiada",
+    "descricao": "Exercício para membros inferiores com barra guiada.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 86,
+    "nome": "Afundo na Barra Guiada (pé atrás no Step)",
+    "descricao": "Exercício para membros inferiores com barra guiada e pé traseiro elevado.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 87,
+    "nome": "Afundo na Barra Guiada (pé da frente no Step)",
+    "descricao": "Exercício para membros inferiores com barra guiada e pé da frente elevado.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 88,
+    "nome": "Afundo na Barra Guiada (pé no banco)",
+    "descricao": "Exercício para membros inferiores com barra guiada e pé elevado em banco.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 89,
+    "nome": "Afundo com Barra Baixa",
+    "descricao": "Exercício para membros inferiores com barra posicionada mais baixa nas costas.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 90,
+    "nome": "Leg Horizontal",
+    "descricao": "Exercício para membros inferiores na máquina leg press horizontal.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 91,
+    "nome": "Leg Horizontal (Unilateral)",
+    "descricao": "Exercício para membros inferiores na máquina leg press horizontal com uma perna por vez.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 92,
+    "nome": "Leg 80",
+    "descricao": "Exercício para membros inferiores no leg press com inclinação de 80 graus.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 93,
+    "nome": "Leg Press 45",
+    "descricao": "Exercício para membros inferiores no leg press com inclinação de 45 graus.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 94,
+    "nome": "Leg Press 45 (Unilateral)",
+    "descricao": "Exercício para membros inferiores no leg press 45 com uma perna por vez.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 95,
+    "nome": "Leg Press 45 (Articulado)",
+    "descricao": "Exercício para membros inferiores no leg press 45 com movimento articulado.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 96,
+    "nome": "Leg Press 45 (Articulado) Unilateral",
+    "descricao": "Exercício para membros inferiores no leg press 45 articulado com uma perna por vez.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 97,
+    "nome": "Extensora",
+    "descricao": "Exercício para quadríceps na máquina extensora.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 98,
+    "nome": "Extensora Unilateral",
+    "descricao": "Exercício para quadríceps na máquina extensora com uma perna por vez.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 99,
+    "nome": "Extensora (excêntrica unilateral)",
+    "descricao": "Exercício para quadríceps com ênfase na fase excêntrica, uma perna por vez.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 100,
+    "nome": "Extensora (banco recuado)",
+    "descricao": "Exercício para quadríceps na máquina extensora com banco em posição recuada.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 101,
+    "nome": "Extensora 3 Eixos",
+    "descricao": "Exercício para quadríceps na máquina extensora com 3 eixos de movimento.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 102,
+    "nome": "Extensora 3 Eixos (banco recuado)",
+    "descricao": "Exercício para quadríceps na máquina extensora 3 eixos com banco recuado.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 103,
+    "nome": "Stiff com Halteres",
+    "descricao": "Exercício para posteriores de coxa com halteres.",
+    "grupoMuscular": "Isquiotibiais",
+    "linkVideo": ""
+  },
+  {
+    "id": 104,
+    "nome": "Stiff com Halteres (Base Sumô)",
+    "descricao": "Exercício para posteriores de coxa com halteres e base mais aberta.",
+    "grupoMuscular": "Isquiotibiais",
+    "linkVideo": ""
+  },
+  {
+    "id": 105,
+    "nome": "Stiff com Halter Unilateral no banco",
+    "descricao": "Exercício para posteriores de coxa com um halter e apoio no banco.",
+    "grupoMuscular": "Isquiotibiais",
+    "linkVideo": ""
+  },
+  {
+    "id": 106,
+    "nome": "Stiff com Barra",
+    "descricao": "Exercício para posteriores de coxa com barra.",
+    "grupoMuscular": "Isquiotibiais",
+    "linkVideo": ""
+  },
+  {
+    "id": 107,
+    "nome": "Stiff com Barra (Base Sumô)",
+    "descricao": "Exercício para posteriores de coxa com barra e base mais aberta.",
+    "grupoMuscular": "Isquiotibiais",
+    "linkVideo": ""
+  },
+  {
+    "id": 108,
+    "nome": "Stiff na Polia",
+    "descricao": "Exercício para posteriores de coxa na polia baixa.",
+    "grupoMuscular": "Isquiotibiais",
+    "linkVideo": ""
+  },
+  {
+    "id": 109,
+    "nome": "Stiff no suporte",
+    "descricao": "Exercício para posteriores de coxa com barra no suporte.",
+    "grupoMuscular": "Isquiotibiais",
+    "linkVideo": ""
+  },
+  {
+    "id": 110,
+    "nome": "Flexora Deitada",
+    "descricao": "Exercício para posteriores de coxa na máquina flexora deitada.",
+    "grupoMuscular": "Isquiotibiais",
+    "linkVideo": ""
+  },
+  {
+    "id": 111,
+    "nome": "Flexora Deitada Unilateral",
+    "descricao": "Exercício para posteriores de coxa na máquina flexora deitada com uma perna por vez.",
+    "grupoMuscular": "Isquiotibiais",
+    "linkVideo": ""
+  },
+  {
+    "id": 112,
+    "nome": "Flexora (excêntrica unilateral)",
+    "descricao": "Exercício para posteriores de coxa com ênfase na fase excêntrica, uma perna por vez.",
+    "grupoMuscular": "Isquiotibiais",
+    "linkVideo": ""
+  },
+  {
+    "id": 113,
+    "nome": "Cadeira Flexora",
+    "descricao": "Exercício para posteriores de coxa na máquina cadeira flexora.",
+    "grupoMuscular": "Isquiotibiais",
+    "linkVideo": ""
+  },
+  {
+    "id": 114,
+    "nome": "Cadeira Flexora (Tronco à Frente)",
+    "descricao": "Exercício para posteriores de coxa na cadeira flexora com inclinação do tronco para frente.",
+    "grupoMuscular": "Isquiotibiais",
+    "linkVideo": ""
+  },
+  {
+    "id": 115,
+    "nome": "Flexão de Joelhos em Pé na máquina",
+    "descricao": "Exercício para posteriores de coxa na máquina para flexão de joelhos em pé.",
+    "grupoMuscular": "Isquiotibiais",
+    "linkVideo": ""
+  },
+  {
+    "id": 116,
+    "nome": "Posterior com movimento na bola",
+    "descricao": "Exercício para posteriores de coxa utilizando bola de exercícios.",
+    "grupoMuscular": "Isquiotibiais",
+    "linkVideo": ""
+  },
+  {
+    "id": 117,
+    "nome": "Elevação pélvica na bola",
+    "descricao": "Exercício para glúteos e posteriores com apoio na bola de exercícios.",
+    "grupoMuscular": "Gluteo",
+    "linkVideo": ""
+  },
+  {
+    "id": 118,
+    "nome": "Posterior Unilateral na bola movimento",
+    "descricao": "Exercício para posteriores com uma perna por vez na bola.",
+    "grupoMuscular": "Isquiotibiais",
+    "linkVideo": ""
+  },
+  {
+    "id": 119,
+    "nome": "Posterior unilateral na bola em isometria",
+    "descricao": "Exercício isométrico para posteriores com uma perna na bola.",
+    "grupoMuscular": "Isquiotibiais",
+    "linkVideo": ""
+  },
+  {
+    "id": 120,
+    "nome": "Flexão Nórdica com auxílio",
+    "descricao": "Exercício para posteriores de coxa com movimento de flexão nórdica adaptada.",
+    "grupoMuscular": "Isquiotibiais",
+    "linkVideo": ""
+  },
+  {
+    "id": 121,
+    "nome": "Flexão Nórdica com a Bola",
+    "descricao": "Exercício para posteriores de coxa com movimento de flexão nórdica utilizando bola.",
+    "grupoMuscular": "Isquiotibiais",
+    "linkVideo": ""
+  },
+  {
+    "id": 122,
+    "nome": "Levantamento Terra",
+    "descricao": "Exercício composto para posteriores de coxa, glúteos e costas.",
+    "grupoMuscular": "Isquiotibiais",
+    "linkVideo": ""
+  },
+  {
+    "id": 123,
+    "nome": "Levantamento Terra (base sumô)",
+    "descricao": "Variação do levantamento terra com base mais aberta.",
+    "grupoMuscular": "Isquiotibiais",
+    "linkVideo": ""
+  },
+  {
+    "id": 124,
+    "nome": "Levantamento Terra Hexagonal",
+    "descricao": "Exercício composto utilizando barra hexagonal.",
+    "grupoMuscular": "Isquiotibiais",
+    "linkVideo": ""
+  },
+  {
+    "id": 125,
+    "nome": "Subida no banco",
+    "descricao": "Exercício para membros inferiores com subida em banco ou step.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 126,
+    "nome": "Subida / afundo nos steps",
+    "descricao": "Exercício combinado de subida e afundo utilizando steps.",
+    "grupoMuscular": "Coxas",
+    "linkVideo": ""
+  },
+  {
+    "id": 127,
+    "nome": "Supino Reto",
+    "descricao": "Exercício básico para peitoral com barra no banco reto.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 128,
+    "nome": "Supino Reto com Halteres",
+    "descricao": "Exercício para peitoral com halteres no banco reto.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 129,
+    "nome": "Supino Inclinado",
+    "descricao": "Exercício para peitoral superior com barra no banco inclinado.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 130,
+    "nome": "Supino Inclinado com halteres (45 graus)",
+    "descricao": "Exercício para peitoral superior com halteres no banco a 45 graus.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 131,
+    "nome": "Supino Inclinado com halteres (30 graus)",
+    "descricao": "Exercício para peitoral superior com halteres no banco a 30 graus.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 132,
+    "nome": "Supino declinado",
+    "descricao": "Exercício para peitoral inferior com barra no banco declinado.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 133,
+    "nome": "Supino declinado com halteres",
+    "descricao": "Exercício para peitoral inferior com halteres no banco declinado.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 134,
+    "nome": "Crucifixo reto com halteres",
+    "descricao": "Exercício de abertura para peitoral com halteres no banco reto.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 135,
+    "nome": "Crucifixo inclinado com halteres",
+    "descricao": "Exercício de abertura para peitoral superior com halteres no banco inclinado.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 136,
+    "nome": "Crucifixo declinado com halteres",
+    "descricao": "Exercício de abertura para peitoral inferior com halteres no banco declinado.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 137,
+    "nome": "Supino 3 eixos (Pronada)",
+    "descricao": "Exercício para peitoral na máquina de 3 eixos com pegada pronada.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 138,
+    "nome": "Supino 3 eixos (Neutra)",
+    "descricao": "Exercício para peitoral na máquina de 3 eixos com pegada neutra.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 139,
+    "nome": "Crucifixo articulado inclinado máquina",
+    "descricao": "Exercício para peitoral na máquina articulada com banco inclinado.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 140,
+    "nome": "Supino Máquina Sentado (Pronada)",
+    "descricao": "Exercício para peitoral na máquina de supino sentado com pegada pronada.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 141,
+    "nome": "Supino Máquina Sentado (Neutra)",
+    "descricao": "Exercício para peitoral na máquina de supino sentado com pegada neutra.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 142,
+    "nome": "Cross over (pegada supino)",
+    "descricao": "Exercício para peitoral nas polias com movimento de supino.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 143,
+    "nome": "Cross over (pegada crucifixo)",
+    "descricao": "Exercício para peitoral nas polias com movimento de abertura.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 144,
+    "nome": "Cross over (polia baixa)",
+    "descricao": "Exercício para peitoral com polias baixas e movimento ascendente.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 145,
+    "nome": "Cross over (polia média)",
+    "descricao": "Exercício para peitoral com polias na altura média.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 146,
+    "nome": "Supino Inclinado no Cross",
+    "descricao": "Exercício para peitoral superior no cross over.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 147,
+    "nome": "Crucifixo Inclinado no Cross",
+    "descricao": "Exercício de abertura para peitoral superior no cross over.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 148,
+    "nome": "Supino sentado Cross",
+    "descricao": "Exercício para peitoral no cross over em posição sentada.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 149,
+    "nome": "Crucifixo sentado Cross",
+    "descricao": "Exercício de abertura para peitoral no cross over em posição sentada.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 150,
+    "nome": "Voador máquina (rotação interna)",
+    "descricao": "Exercício para peitoral na máquina peck deck com rotação interna.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 151,
+    "nome": "Voador máquina (rotação externa)",
+    "descricao": "Exercício para peitoral na máquina peck deck com rotação externa.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 152,
+    "nome": "Apoio",
+    "descricao": "Exercício para peitoral e tríceps com o peso do corpo.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 153,
+    "nome": "Apoio (mãos no banco)",
+    "descricao": "Exercício para peitoral e tríceps com mãos elevadas em banco.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 154,
+    "nome": "Apoio (joelhos no chão)",
+    "descricao": "Exercício adaptado para peitoral e tríceps com apoio nos joelhos.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 155,
+    "nome": "Apoio fechado",
+    "descricao": "Exercício para tríceps e parte central do peitoral com mãos próximas.",
+    "grupoMuscular": "Peitoral",
+    "linkVideo": ""
+  },
+  {
+    "id": 156,
+    "nome": "Apoio diamante",
+    "descricao": "Exercício para tríceps com mãos formando um diamante.",
+    "grupoMuscular": "Triceps",
+    "linkVideo": ""
+  },
+  {
+    "id": 157,
+    "nome": "Rosca Direta com Barra",
+    "descricao": "Exercício básico para bíceps com barra reta.",
+    "grupoMuscular": "Biceps",
+    "linkVideo": ""
+  },
+  {
+    "id": 158,
+    "nome": "Rosca Direta com Barra W",
+    "descricao": "Exercício para bíceps com barra W (ondulada).",
+    "grupoMuscular": "Biceps",
+    "linkVideo": ""
+  },
+  {
+    "id": 159,
+    "nome": "Rosca Alternada com Halteres",
+    "descricao": "Exercício para bíceps com movimento alternado de halteres.",
+    "grupoMuscular": "Biceps",
+    "linkVideo": ""
+  },
+  {
+    "id": 160,
+    "nome": "Rosca Concentrada",
+    "descricao": "Exercício de isolamento para bíceps com apoio no joelho.",
+    "grupoMuscular": "Biceps",
+    "linkVideo": ""
+  },
+  {
+    "id": 161,
+    "nome": "Rosca Scott",
+    "descricao": "Exercício para bíceps com apoio no banco Scott.",
+    "grupoMuscular": "Biceps",
+    "linkVideo": ""
+  },
+  {
+    "id": 162,
+    "nome": "Rosca Scott Unilateral",
+    "descricao": "Exercício para bíceps com banco Scott realizado um braço por vez.",
+    "grupoMuscular": "Biceps",
+    "linkVideo": ""
+  },
+  {
+    "id": 163,
+    "nome": "Rosca Martelo",
+    "descricao": "Exercício para bíceps e braquial com pegada neutra.",
+    "grupoMuscular": "Biceps",
+    "linkVideo": ""
+  },
+  {
+    "id": 164,
+    "nome": "Rosca Inversa",
+    "descricao": "Exercício para antebraço e bíceps com pegada pronada.",
+    "grupoMuscular": "Biceps",
+    "linkVideo": ""
+  },
+  {
+    "id": 165,
+    "nome": "Rosca na Polia",
+    "descricao": "Exercício para bíceps utilizando a polia baixa.",
+    "grupoMuscular": "Biceps",
+    "linkVideo": ""
+  },
+  {
+    "id": 166,
+    "nome": "Rosca na Polia Alta",
+    "descricao": "Exercício para bíceps utilizando a polia alta.",
+    "grupoMuscular": "Biceps",
+    "linkVideo": ""
+  },
+  {
+    "id": 167,
+    "nome": "Tríceps Testa",
+    "descricao": "Exercício para tríceps com barra descendo até a testa.",
+    "grupoMuscular": "Triceps",
+    "linkVideo": ""
+  },
+  {
+    "id": 168,
+    "nome": "Tríceps Francês",
+    "descricao": "Exercício para tríceps com movimento atrás da cabeça.",
+    "grupoMuscular": "Triceps",
+    "linkVideo": ""
+  },
+  {
+    "id": 169,
+    "nome": "Tríceps Corda",
+    "descricao": "Exercício para tríceps com corda na polia alta.",
+    "grupoMuscular": "Triceps",
+    "linkVideo": ""
+  },
+  {
+    "id": 170,
+    "nome": "Tríceps Barra Reta",
+    "descricao": "Exercício para tríceps com barra reta na polia alta.",
+    "grupoMuscular": "Triceps",
+    "linkVideo": ""
+  },
+  {
+    "id": 171,
+    "nome": "Tríceps Barra V",
+    "descricao": "Exercício para tríceps com barra em V na polia alta.",
+    "grupoMuscular": "Triceps",
+    "linkVideo": ""
+  },
+  {
+    "id": 172,
+    "nome": "Tríceps Coice",
+    "descricao": "Exercício para tríceps com movimento de coice utilizando halter.",
+    "grupoMuscular": "Triceps",
+    "linkVideo": ""
+  },
+  {
+    "id": 173,
+    "nome": "Tríceps Banco",
+    "descricao": "Exercício para tríceps com apoio nas mãos em banco.",
+    "grupoMuscular": "Triceps",
+    "linkVideo": ""
+  },
+  {
+    "id": 174,
+    "nome": "Tríceps Máquina",
+    "descricao": "Exercício para tríceps na máquina específica.",
+    "grupoMuscular": "Triceps",
+    "linkVideo": ""
+  },
+  {
+    "id": 175,
+    "nome": "Desenvolvimento com Barra",
+    "descricao": "Exercício básico para ombros com barra.",
+    "grupoMuscular": "Ombros",
+    "linkVideo": ""
+  },
+  {
+    "id": 176,
+    "nome": "Desenvolvimento com Halteres",
+    "descricao": "Exercício básico para ombros com halteres.",
+    "grupoMuscular": "Ombros",
+    "linkVideo": ""
+  },
+  {
+    "id": 177,
+    "nome": "Desenvolvimento Máquina",
+    "descricao": "Exercício para ombros na máquina específica.",
+    "grupoMuscular": "Ombros",
+    "linkVideo": ""
+  },
+  {
+    "id": 178,
+    "nome": "Elevação Lateral",
+    "descricao": "Exercício para deltoides laterais com halteres.",
+    "grupoMuscular": "Ombros",
+    "linkVideo": ""
+  },
+  {
+    "id": 179,
+    "nome": "Elevação Frontal",
+    "descricao": "Exercício para deltoides anteriores com halteres ou barra.",
+    "grupoMuscular": "Ombros",
+    "linkVideo": ""
+  },
+  {
+    "id": 180,
+    "nome": "Puxada Alta com Corda",
+    "descricao": "Exercício para deltoides e trapézio com corda na polia.",
+    "grupoMuscular": "Ombros",
+    "linkVideo": ""
+  },
+  {
+    "id": 181,
+    "nome": "Rotação Externa de Ombro",
+    "descricao": "Exercício para manguito rotador com halter ou polia.",
+    "grupoMuscular": "Ombros",
+    "linkVideo": ""
+  },
+  {
+    "id": 182,
+    "nome": "Crucifixo Inverso Máquina",
+    "descricao": "Exercício para deltoides posteriores na máquina.",
+    "grupoMuscular": "Ombros",
+    "linkVideo": ""
+  },
+  {
+    "id": 183,
+    "nome": "Abdominal Reto",
+    "descricao": "Exercício básico para região abdominal.",
+    "grupoMuscular": "Abdomen (core)",
+    "linkVideo": ""
+  },
+  {
+    "id": 184,
+    "nome": "Abdominal Infra",
+    "descricao": "Exercício para região abdominal inferior.",
+    "grupoMuscular": "Abdomen (core)",
+    "linkVideo": ""
+  },
+  {
+    "id": 185,
+    "nome": "Abdominal Oblíquo",
+    "descricao": "Exercício para músculos abdominais oblíquos.",
+    "grupoMuscular": "Abdomen (core)",
+    "linkVideo": ""
+  },
+  {
+    "id": 186,
+    "nome": "Prancha",
+    "descricao": "Exercício isométrico para core e estabilização.",
+    "grupoMuscular": "Abdomen (core)",
+    "linkVideo": ""
+  },
+  {
+    "id": 187,
+    "nome": "Russian Twist",
+    "descricao": "Exercício rotacional para abdômen com peso ou sem peso.",
+    "grupoMuscular": "Abdomen (core)",
+    "linkVideo": ""
+  },
+  {
+    "id": 188,
+    "nome": "Abdominal Máquina",
+    "descricao": "Exercício para região abdominal na máquina específica.",
+    "grupoMuscular": "Abdomen (core)",
+    "linkVideo": ""
+  },
+  {
+    "id": 189,
+    "nome": "Elevação de Pernas",
+    "descricao": "Exercício para região abdominal inferior com elevação de pernas.",
+    "grupoMuscular": "Abdomen (core)",
+    "linkVideo": ""
+  },
+  {
+    "id": 190,
+    "nome": "Panturrilha em Pé",
+    "descricao": "Exercício básico para panturrilha em posição em pé.",
+    "grupoMuscular": "Panturrilha",
+    "linkVideo": ""
+  },
+  {
+    "id": 191,
+    "nome": "Panturrilha Sentado",
+    "descricao": "Exercício para panturrilha em posição sentada.",
+    "grupoMuscular": "Panturrilha",
+    "linkVideo": ""
+  },
+  {
+    "id": 192,
+    "nome": "Panturrilha no Leg Press",
+    "descricao": "Exercício para panturrilha utilizando o leg press.",
+    "grupoMuscular": "Panturrilha",
+    "linkVideo": ""
+  },
+  {
+    "id": 193,
+    "nome": "Panturrilha Unilateral",
+    "descricao": "Exercício para panturrilha com uma perna por vez.",
+    "grupoMuscular": "Panturrilha",
+    "linkVideo": ""
+  },
+  {
+    "id": 194,
+    "nome": "Mobilidade de Ombros com Bastão",
+    "descricao": "Exercício para melhorar a mobilidade articular dos ombros.",
+    "grupoMuscular": "Mobilidade de ombros",
+    "linkVideo": ""
+  },
+  {
+    "id": 195,
+    "nome": "Rotação Torácica Deitado",
+    "descricao": "Exercício para melhorar a mobilidade da coluna torácica.",
+    "grupoMuscular": "Mobilidade toracica",
+    "linkVideo": ""
+  },
+  {
+    "id": 196,
+    "nome": "Mobilidade de Tornozelo com Faixa",
+    "descricao": "Exercício para melhorar a mobilidade articular do tornozelo.",
+    "grupoMuscular": "Mobilidade de tornozelo",
+    "linkVideo": ""
+  },
+  {
+    "id": 197,
+    "nome": "Alongamento de Isquiotibiais",
+    "descricao": "Exercício de alongamento para posteriores de coxa.",
+    "grupoMuscular": "Alongamento",
+    "linkVideo": ""
+  },
+  {
+    "id": 198,
+    "nome": "Alongamento de Quadríceps",
+    "descricao": "Exercício de alongamento para a parte frontal da coxa.",
+    "grupoMuscular": "Alongamento",
+    "linkVideo": ""
+  },
+  {
+    "id": 199,
+    "nome": "Alongamento de Peitorais",
+    "descricao": "Exercício de alongamento para músculos do peito.",
+    "grupoMuscular": "Alongamento",
+    "linkVideo": ""
+  },
+  {
+    "id": 200,
+    "nome": "Burpee",
+    "descricao": "Exercício metabólico de corpo inteiro combinando agachamento, flexão e salto.",
+    "grupoMuscular": "Metabolico",
+    "linkVideo": ""
+  }
+]
